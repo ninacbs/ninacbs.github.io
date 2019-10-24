@@ -32,15 +32,25 @@ Jedoch ist es mittlerweile nicht einmal mehr zwingend notwendig von dem Nachhalt
 ## Quellen
 
 https://www.unglobalcompact.org/docs/issues_doc/Financial_markets/who_cares_who_wins.pdf
+
 https://www2.deloitte.com/ca/en/pages/energy-and-resources/articles/sustainability-performance.html
+
 https://ir.blackrock.com/file/Index?KeyFile=395440107
+
 https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter
+
 https://corpgov.law.harvard.edu/2017/07/27/esg-reports-and-ratings-what-they-are-why-they-matter/
+
 https://www.test.de/Nachhaltige-ETF-Bequem-oekologisch-und-ethisch-anlegen-5398347-0/
+
 https://www.deutschlandfunk.de/nachhaltige-geldanlage-grosse-nachfrage-aber-verbindliche.697.de.html?dram:article_id=428969
+
 https://ec.europa.eu/germany/news/20180131-finanzwirtschaft_de
+
 https://www.scopeanalysis.com/ScopeAnalysisApi/api/downloadstudy?id=68f9b0bf-552b-4cde-935b-8bf14334e665
+
 https://www.springerprofessional.de/social-media/public-relations/greenwashing-ein-gruenes-image-kann-man-nicht-verordnen/6598486
 
 https://www.bpb.de/apuz/188663/was-ist-nachhaltigkeit-dimensionen-und-chancen?p=all
+
 https://www.forbes.com/sites/georgkell/2018/07/11/the-remarkable-rise-of-esg/
