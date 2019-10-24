@@ -1,7 +1,7 @@
-# Nachhaltig Investieren
-
 ![Harley](01.jpg)
 ![](01.jpg)
+
+# Nachhaltig Investieren
 
 Nachhaltigkeit. Ein Begriff, der derzeit in aller Munde ist und in den unterschiedlichsten Zusammenhängen verwendet wird. Insbesondere in der öffentlichen Wahrnehmung westlicher Länder erlangte der Begriff zuletzt erhebliche Präsenz. Die Angst und Empörung über den Klimawandel, sowie eine langsame Politik, brachte in den letzten Wochen eine steigende Anzahl an Großdemonstrationen wie Fridays for Future oder Extinction Rebellion hervor. Der Druck auf die Politik seitens der Gesellschaft nimmt zu.
 
@@ -28,4 +28,4 @@ Regularien und Vorgaben sind nötig, damit die Skepsis genommen und ein richtige
 
 Jedoch ist es mittlerweile nicht einmal mehr zwingend notwendig von dem Nachhaltigkeitsgedanken überzeugt zu sein, sondern man kann sich auch von seinen gewinnbringenden Argumenten überzeugen lassen. Eine mindestens gleich gute oder sogar bessere Leistung als Fond, erhöhtes Vertrauen und eine überzeugende Marketingstrategie sollten Argumente genug sein. Jetzt benötigt es nur noch einheitliche Analyserichtlinien, um auch noch den letzten Skeptiker von dem guten Handel zu überzeugen. Schenkt man der europäischen Kommission aber Vertrauen, sind wir auch hier auf einem guten Weg.
 
-## Quelle
+## Quellen
