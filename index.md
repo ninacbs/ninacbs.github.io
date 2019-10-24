@@ -1,5 +1,4 @@
 ![Harley](01.jpg)
-![](01.jpg)
 
 # Nachhaltig Investieren
 
