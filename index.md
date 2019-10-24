@@ -27,6 +27,8 @@ Regularien und Vorgaben sind nötig, damit die Skepsis genommen und ein richtige
 
 Jedoch ist es mittlerweile nicht einmal mehr zwingend notwendig von dem Nachhaltigkeitsgedanken überzeugt zu sein, sondern man kann sich auch von seinen gewinnbringenden Argumenten überzeugen lassen. Eine mindestens gleich gute oder sogar bessere Leistung als Fond, erhöhtes Vertrauen und eine überzeugende Marketingstrategie sollten Argumente genug sein. Jetzt benötigt es nur noch einheitliche Analyserichtlinien, um auch noch den letzten Skeptiker von dem guten Handel zu überzeugen. Schenkt man der europäischen Kommission aber Vertrauen, sind wir auch hier auf einem guten Weg.
 
+![Harley](02.jpg)
+
 ## Quellen
 
 https://www.unglobalcompact.org/docs/issues_doc/Financial_markets/who_cares_who_wins.pdf
