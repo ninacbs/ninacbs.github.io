@@ -3,23 +3,21 @@
 
 @import "{{ site.theme }}";
 
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lora|Noto+Sans&display=swap");
 
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lora", serif;
   text-align: justify;
 }
 
-h1,
+h1 {
+  font-family: "Open Sans", bold;
+  color: #04b404;
+}
 h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: "Open Sans", sans-serif;
-  color: #04b404;
-}
-
-h2 {
+h6 h2 {
   background: transparent;
 }
